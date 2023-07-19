@@ -1,9 +1,19 @@
 # Flight_Data_Analysis
 
+## Table of Content
+- [Introduction](#introduction)
+- [Usage](#Usage)
+- [Code Organization](#Code_Organization)
+- [Results](#Results)
+
+
+## Introduction
+
+
 This repository contains Python code for analyzing flight data. The code utilizes various libraries such as NumPy, Pandas, SciPy, Matplotlib, and Seaborn to perform data preprocessing, exploration, and visualization tasks.
 
 
-**Usage**
+## Usage
 
 
 Ensure that you have the necessary libraries installed. You can install them using pip or conda.
@@ -21,7 +31,7 @@ Open the Python script and modify the file path in the flight_data=pd.read_csv("
 Run the script. It will execute the analysis steps and generate various visualizations and insights about the flight data.
 
 
-**Code Organization**
+## Code Organization
 
 
 The code is organized into sections, each focusing on a specific aspect of the analysis. Here's an overview of the main sections:
@@ -48,7 +58,7 @@ The code is organized into sections, each focusing on a specific aspect of the a
 **Correlation Analysis:** This section calculates the correlation between different variables in the flight data and visualizes the correlation matrix.
 
 
-**Results**
+## Results
 
 
 The analysis provides insights into flight patterns, delays, carrier performance, and other aspects of the analyzed data. Visualizations help visualize the data distribution and identify patterns or anomalies. The code generates various statistics and charts to aid in understanding and interpreting the flight data.
