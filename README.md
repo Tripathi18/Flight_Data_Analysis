@@ -1,4 +1,5 @@
-#Flight Data Analysis
+**Flight Data Analysis**
+
 This repository contains Python code for analyzing flight data. The code utilizes various libraries such as NumPy, Pandas, SciPy, matplotlib, and Seaborn to perform data preprocessing, exploration, and visualization tasks.
 
 **Usage**
@@ -43,9 +44,10 @@ The code is organized into sections, each focusing on a specific aspect of the a
 
 
 **Results**
+
 The analysis provides insights into flight patterns, delays, carrier performance, and other aspects of the analyzed data. Visualizations help visualize the data distribution and identify patterns or anomalies. The code generates various statistics and charts to aid in understanding and interpreting flight data.
 
 
 Please note that this analysis is based on the provided flight data and its interpretation may vary depending on the specific dataset used.
 
-For any questions or issues, feel free to contact at ayusht18dec@outlook.com.
+For any questions or issues, feel free to contact me at ayusht18dec@outlook.com.
